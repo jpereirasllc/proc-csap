@@ -1,2 +1,2 @@
 # proc-csap
-Repositório temporário para atualização do programa Proc
+Repositório temporário para armazenar o protótipo de uma atualização do programa Proc.
